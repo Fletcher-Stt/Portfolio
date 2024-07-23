@@ -1,0 +1,72 @@
+/* Assets - Start */
+@import "../assets/_variables.scss";
+/* Assets - End */
+
+section#contact {
+    margin: 0px 10%;
+    margin-top: 60px;
+
+    div#title {
+        display: flex;
+        align-items: center;
+    
+        font-size: 1.6em;
+        margin-bottom: 40px;
+    }
+
+    div#contact-container {
+        display: flex;
+        height: 20vh;
+
+        div#left {
+            width: 50%;
+
+            p {
+                color: $gray;
+                font-size: 1.1em;
+            
+                width: 80%;;
+            }
+        }
+
+        div#right {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            width: 50%;
+
+            div#contacts {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            
+                border: 1px solid $gray;
+                border-radius: 10px;
+                padding: 15px;
+                width: 30%;
+
+                ul{
+                    display: flex;
+                    flex-direction: column;
+
+                    li{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    
+                        margin: 7px;
+
+                        img{
+                            width: 25px;
+                        }
+
+                        p {
+                            font-size: 0.9em;
+                            margin-left: 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

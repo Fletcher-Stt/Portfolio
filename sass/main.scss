@@ -1,0 +1,45 @@
+/* Assets - Start */
+@import "./assets/_variables.scss";
+/* Assets - End */
+
+/* Components - Start */
+@import "./components/_header.scss";
+@import "./components/_footer.scss";
+/* Components - End */
+
+/* Pages - Start */
+@import "./pages/_start.scss";
+@import "./pages/_prhase.scss";
+@import "./pages/_projects.scss";
+@import "./pages/_about.scss";
+@import "./pages/_skills.scss";
+@import "./pages/_contact.scss";
+/* Pages - End */
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    box-shadow: none;
+    list-style: none;
+
+    font-family: monospace;
+    font-size: 1.04em;
+
+    transition: all 0.15s;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+html, body {
+    background-color: $black;
+    background-image: url("../assets/icons/squares.svg");
+}
+
+span {
+    color: $primary-color;
+}

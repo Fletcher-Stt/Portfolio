@@ -1,0 +1,61 @@
+/* Assets - Start */
+@import "../assets/_variables.scss";
+/* Assets - End */
+
+* {
+    color: $white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    position: fixed;
+    top: 0;
+    width: 100vw;
+
+    height: 10vh;
+
+    background-color: $black;
+    border-bottom: 1px solid $gray;
+
+    div#logo {
+        margin-left: 5%;
+        display: flex;
+
+        img{
+            cursor: pointer;
+        }
+
+        p{
+            cursor: pointer;
+        }
+    }
+
+    nav {
+        margin-right: 5%;
+        ul {
+            display: flex;
+
+            li {
+                display: flex;
+                align-items: center;
+
+                cursor: pointer;
+                margin-left: 20px;
+
+                span {
+                    cursor: pointer;
+                    color: $primary-color;
+                    margin-right: 2px;
+                }
+
+                p {
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+
+}

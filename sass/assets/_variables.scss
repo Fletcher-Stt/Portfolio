@@ -1,0 +1,29 @@
+$primary-color: #C778DD;
+$gray: #ABB2BF;
+$black: #000000;
+$white: #ffffff;
+
+.active {
+    color: $white;
+    border-bottom: 1px dotted $primary-color;
+}
+
+.inative {
+    color: $gray;
+}
+
+.large-separator {
+    height: 1px;
+    width: 60%;
+    margin-left: 10px;
+
+    background-color: var(--Primary-Color);
+}
+
+.medium-separator {
+    height: 1px;
+    width: 35%;
+    margin-left: 10px;
+
+    background-color: var(--Primary-Color);
+}

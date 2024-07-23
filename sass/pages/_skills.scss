@@ -1,0 +1,87 @@
+/* Assets - Start */
+@import "../assets/_variables.scss";
+/* Assets - End */
+
+section#skills {
+    margin: 0px 10%;
+    margin-top: 60px;
+
+    div#title {
+        display: flex;
+        align-items: center;
+    
+        font-size: 1.6em;
+    }
+
+    div#skills-container {
+        height: auto;
+        width: 100%;
+        margin-top: 30px;
+    
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        div#left {
+            display: flex;
+        
+            height: 350px;
+            width: 45%;
+        
+            background-image: url("../assets/images/squares.svg");
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        div#right {
+            display: flex;
+        
+            width: 50%;
+
+            div#first-column {
+                width: 280px;
+            }
+
+            div#second-column {
+                width: 280px;
+            }
+
+            div#third-column {
+                width: 280px;
+            }
+
+            div#column-item {
+                border: 1px solid $gray;
+                border-radius: 10px;
+                margin: 10px;
+
+                div#item-title {
+                    padding: 10px;
+                
+                    border-bottom: 1px solid $gray;
+
+                    p {
+                        color: $white;
+                    }
+                }
+
+                div#item-content {
+                    padding: 10px;
+
+                    ul {
+                        li {
+                            margin-bottom: 5px;
+
+                            abbr {
+                                color: $gray;
+                                border-bottom: 1px dotted $gray;
+                            
+                                cursor: help;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

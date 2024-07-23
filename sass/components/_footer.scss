@@ -1,0 +1,20 @@
+/* Assets - Start */
+@import "../assets/_variables.scss";
+/* Assets - End */
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 10vh;
+    border-top: 1px solid $white;
+
+    p {
+        a {
+            cursor: pointer;
+            color: $primary-color;
+            border-bottom: 1px solid $primary-color;
+        }
+    }
+}
