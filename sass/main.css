@@ -199,11 +199,11 @@ section#start div#right-content {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
   height: 100%;
   width: 50%;
 }
 section#start div#right-content img {
+  margin-top: 5vh;
   width: 70%;
 }
 
@@ -464,7 +464,7 @@ section#skills div#title {
   display: flex;
   align-items: center;
   font-size: 1.6em;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 section#skills div#skills-container {
   height: auto;
