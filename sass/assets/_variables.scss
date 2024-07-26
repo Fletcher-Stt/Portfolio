@@ -17,7 +17,7 @@ $white: #ffffff;
     width: 60%;
     margin-left: 10px;
 
-    background-color: var(--Primary-Color);
+    background-color: $primary-color;
 }
 
 .medium-separator {
@@ -25,5 +25,5 @@ $white: #ffffff;
     width: 35%;
     margin-left: 10px;
 
-    background-color: var(--Primary-Color);
+    background-color: $primary-color;
 }

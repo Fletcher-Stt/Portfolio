@@ -11,6 +11,7 @@ section#skills {
         align-items: center;
     
         font-size: 1.6em;
+        margin-bottom: 80px;
     }
 
     div#skills-container {
@@ -24,13 +25,15 @@ section#skills {
 
         div#left {
             display: flex;
+            align-items: center;
+            justify-content: center;
         
             height: 350px;
             width: 45%;
-        
-            background-image: url("../assets/images/squares.svg");
-            background-size: contain;
-            background-repeat: no-repeat;
+
+            img {
+                width: 60%;
+            }
         }
 
         div#right {
