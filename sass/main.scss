@@ -1,4 +1,5 @@
 /* Assets - Start */
+@import "./assets/global";
 @import "./assets/_variables.scss";
 /* Assets - End */
 
@@ -16,30 +17,7 @@
 @import "./pages/_contact.scss";
 /* Pages - End */
 
-* {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-    outline: none;
-    border: none;
-    box-shadow: none;
-    list-style: none;
-
-    font-family: monospace;
-    font-size: 1.04em;
-
-    transition: all 0.15s;
-}
-
-*::-webkit-scrollbar {
-    display: none;
-}
-
-html, body {
-    background-color: $black;
-    background-image: url("../assets/icons/squares.svg");
-}
-
-span {
-    color: $primary-color;
-}
+/* Devices - Start */
+@import "./devices/_mobile.scss";
+@import "./devices/_tablet.scss";
+/* Devices - End */
