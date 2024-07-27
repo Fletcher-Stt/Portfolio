@@ -1,4 +1,55 @@
 /* Assets - Start */
+/* Assets - Start */
+.active {
+  color: #ffffff;
+  border-bottom: 1px dotted #C778DD;
+}
+
+.inative {
+  color: #ABB2BF;
+}
+
+.large-separator {
+  height: 1px;
+  width: 60%;
+  margin-left: 10px;
+  background-color: #C778DD;
+}
+
+.medium-separator {
+  height: 1px;
+  width: 35%;
+  margin-left: 10px;
+  background-color: #C778DD;
+}
+
+/* Assets - End */
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  box-shadow: none;
+  list-style: none;
+  font-family: monospace;
+  font-size: 1.04em;
+  transition: all 0.15s;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+html, body {
+  background-color: #000000;
+  background-image: url("../../assets/icons/squares.svg");
+}
+
+span {
+  color: #C778DD;
+}
+
 .active {
   color: #ffffff;
   border-bottom: 1px dotted #C778DD;
@@ -503,6 +554,7 @@ section#skills div#skills-container div#right div#column-item {
   margin: 10px;
 }
 section#skills div#skills-container div#right div#column-item div#item-title {
+  text-align: center;
   padding: 10px;
   border-bottom: 1px solid #ABB2BF;
 }
@@ -513,7 +565,8 @@ section#skills div#skills-container div#right div#column-item div#item-content {
   padding: 10px;
 }
 section#skills div#skills-container div#right div#column-item div#item-content ul li {
-  margin-bottom: 5px;
+  text-align: center;
+  margin-bottom: 8px;
 }
 section#skills div#skills-container div#right div#column-item div#item-content ul li abbr {
   color: #ABB2BF;
@@ -602,28 +655,55 @@ section#contact div#contact-container div#right div#contacts ul li p {
 }
 
 /* Pages - End */
-* {
-  margin: 0;
-  padding: 0;
-  text-decoration: none;
-  outline: none;
-  border: none;
-  box-shadow: none;
-  list-style: none;
-  font-family: monospace;
-  font-size: 1.04em;
-  transition: all 0.15s;
+/* Devices - Start */
+/* Assets - Start */
+.active {
+  color: #ffffff;
+  border-bottom: 1px dotted #C778DD;
 }
 
-*::-webkit-scrollbar {
-  display: none;
+.inative {
+  color: #ABB2BF;
 }
 
-html, body {
-  background-color: #000000;
-  background-image: url("../assets/icons/squares.svg");
+.large-separator {
+  height: 1px;
+  width: 60%;
+  margin-left: 10px;
+  background-color: #C778DD;
 }
 
-span {
-  color: #C778DD;
-}/*# sourceMappingURL=main.css.map */
+.medium-separator {
+  height: 1px;
+  width: 35%;
+  margin-left: 10px;
+  background-color: #C778DD;
+}
+
+/* Assets - End */
+/* Assets - Start */
+.active {
+  color: #ffffff;
+  border-bottom: 1px dotted #C778DD;
+}
+
+.inative {
+  color: #ABB2BF;
+}
+
+.large-separator {
+  height: 1px;
+  width: 60%;
+  margin-left: 10px;
+  background-color: #C778DD;
+}
+
+.medium-separator {
+  height: 1px;
+  width: 35%;
+  margin-left: 10px;
+  background-color: #C778DD;
+}
+
+/* Assets - End */
+/* Devices - End *//*# sourceMappingURL=main.css.map */
