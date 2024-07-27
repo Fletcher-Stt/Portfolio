@@ -2,7 +2,7 @@
 
 ## Bem-vindo ao meu Portfólio
 
-Olá! Sou Eduardo Guilherme, mais conhecido como Fletcher, um desenvolvedor web especializado em HTML5, SCSS, JavaScript, React, NodeJs, Sql-DB e Mongo-DB. Este é o meu portfólio online onde você pode conhecer um pouco mais sobre mim e o meu trabalho.
+Olá! Sou Eduardo Guilherme, mais conhecido como Fletcher, um desenvolvedor web especializado em HTML5, CSS3, SCSS, JAVASCRIPT. Este é o meu portfólio online onde você pode conhecer um pouco mais sobre mim e o meu trabalho.
 
 ## Visualize Meu Portfólio
 
