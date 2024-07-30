@@ -43,7 +43,7 @@
 
 html, body {
   background-color: #000000;
-  background-image: url("../../assets/icons/squares.svg");
+  background-image: url("../../../portfolio/assets/icons/squares.svg");
   background-attachment: fixed;
 }
 
