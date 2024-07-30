@@ -23,7 +23,8 @@
 
 html, body {
     background-color: $black;
-    background-image: url("../../assets/icons/squares-1.svg");
+    background-image: url("../../assets/icons/squares.svg");
+    background-attachment: fixed;
 }
 
 span {
