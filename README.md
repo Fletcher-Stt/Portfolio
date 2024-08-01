@@ -8,7 +8,7 @@ Olá! Sou Eduardo Guilherme, mais conhecido como Fletcher, um desenvolvedor web 
 
 Você pode visualizar clicando no link abaixo:
 
-[Visualizar Portfólio](https://fletcher-stt.github.io/Portfolio/)
+[Visualizar Portfólio](https://fletcherhub.github.io/portfolio/)
 
 ## Sobre Mim
 
@@ -16,7 +16,7 @@ Sou apaixonado por Tecnologia e Desenvolvimento Web. Tenho experiência em criar
 
 ## Contato
 
-- **GitHub**: [fletcher-stt](https://github.com/fletcher-stt)
+- **GitHub**: [FletcherHub](https://github.com/FletcherHub)
 
 ## Licença
 
