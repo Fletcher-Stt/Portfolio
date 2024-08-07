@@ -20,6 +20,8 @@ header {
     background-color: $black;
     border-bottom: 1px solid $gray;
 
+    box-shadow: 1px 1px 30px $black;
+
     div#logo {
         margin-left: 5%;
         display: flex;
@@ -30,6 +32,8 @@ header {
 
         p{
             cursor: pointer;
+            font-size: 1.2em;
+            font-weight: bold;
         }
     }
 
@@ -53,6 +57,7 @@ header {
 
                 p {
                     cursor: pointer;
+                    font-weight: 550;
                 }
             }
         }

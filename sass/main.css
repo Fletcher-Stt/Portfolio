@@ -2,7 +2,7 @@
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -13,14 +13,14 @@
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -48,12 +48,12 @@ html, body {
 }
 
 span {
-  color: #C778DD;
+  color: #0466c8;
 }
 
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -64,14 +64,14 @@ span {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -79,7 +79,7 @@ span {
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -90,14 +90,14 @@ span {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -115,6 +115,7 @@ header {
   height: 10vh;
   background-color: #000000;
   border-bottom: 1px solid #ABB2BF;
+  box-shadow: 1px 1px 30px #000000;
 }
 header div#logo {
   margin-left: 5%;
@@ -125,6 +126,8 @@ header div#logo img {
 }
 header div#logo p {
   cursor: pointer;
+  font-size: 1.2em;
+  font-weight: bold;
 }
 header nav {
   margin-right: 5%;
@@ -140,17 +143,18 @@ header nav ul li {
 }
 header nav ul li span {
   cursor: pointer;
-  color: #C778DD;
+  color: #0466c8;
   margin-right: 2px;
 }
 header nav ul li p {
   cursor: pointer;
+  font-weight: 550;
 }
 
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -161,14 +165,14 @@ header nav ul li p {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -181,8 +185,8 @@ footer {
 }
 footer p a {
   cursor: pointer;
-  color: #C778DD;
-  border-bottom: 1px solid #C778DD;
+  color: #0466c8;
+  border-bottom: 1px solid #0466c8;
 }
 
 /* Components - End */
@@ -190,7 +194,7 @@ footer p a {
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -201,14 +205,14 @@ footer p a {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -239,13 +243,13 @@ section#start div#left-content a {
   align-items: center;
   justify-content: center;
   width: 100px;
-  border: 1px solid #C778DD;
+  border: 1px solid #0466c8;
   border-radius: 10px;
   padding: 10px;
   cursor: pointer;
 }
 section#start div#left-content a:hover {
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 section#start div#right-content {
   display: flex;
@@ -262,7 +266,7 @@ section#start div#right-content img {
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -273,14 +277,14 @@ section#start div#right-content img {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -309,7 +313,7 @@ section#phrase div#phrase-person {
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -320,14 +324,14 @@ section#phrase div#phrase-person {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -417,17 +421,17 @@ section#projects div#projects-container div#project-item div#buttons ul {
 section#projects div#projects-container div#project-item div#buttons ul li a {
   cursor: pointer;
   padding: 8px 10px;
-  border: 1px solid #C778DD;
+  border: 1px solid #0466c8;
   border-radius: 10px;
 }
 section#projects div#projects-container div#project-item div#buttons ul li a:hover {
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -438,14 +442,14 @@ section#projects div#projects-container div#project-item div#buttons ul li a:hov
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -486,7 +490,7 @@ section#about div#about-container div#right img {
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -497,14 +501,14 @@ section#about div#about-container div#right img {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -578,7 +582,7 @@ section#skills div#skills-container div#right div#column-item div#item-content u
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -589,14 +593,14 @@ section#skills div#skills-container div#right div#column-item div#item-content u
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
@@ -660,7 +664,7 @@ section#contact div#contact-container div#right div#contacts ul li p {
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -671,21 +675,21 @@ section#contact div#contact-container div#right div#contacts ul li p {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
 /* Assets - Start */
 .active {
   color: #ffffff;
-  border-bottom: 1px dotted #C778DD;
+  border-bottom: 1px dotted #0466c8;
 }
 
 .inative {
@@ -696,14 +700,14 @@ section#contact div#contact-container div#right div#contacts ul li p {
   height: 1px;
   width: 60%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 .medium-separator {
   height: 1px;
   width: 35%;
   margin-left: 10px;
-  background-color: #C778DD;
+  background-color: #0466c8;
 }
 
 /* Assets - End */
